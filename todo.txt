@@ -43,3 +43,19 @@ icon_wheel.png — Колесо
 icon_cases.png — Кейсы
 
 icon_shop.png — Скины
+
+rarity_common.png    — серая звезда
+
+rarity_rare.png      — зелёная звезда
+
+rarity_epic.png      — фиолетовая звезда
+
+rarity_legendary.png — золотая звезда
+
+rarity_mythic.png    — розовая звезда
+
+reward_lupiki.png   — пачка/мешок Лупиков (для награды «Лупики»)
+
+reward_skin.png     — рамка/звезда «выпал скин» (для награды «Скин»)
+
+reward_jackpot.png  — джекпот (для особо крупных дропов)
