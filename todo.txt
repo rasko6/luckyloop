@@ -1,0 +1,45 @@
+loopik.png - персонаж
+
+lupik.png - иконка валюты
+
+favicon.png
+
+case_common.png — обычный кейс закрытый, 256x256
+
+case_rare.png — редкий кейс, 256x256
+
+case_legendary.png — легендарный кейс, 256x256
+
+badge_first_win.png — первый выигрыш
+
+badge_big_win.png — выигрыш x10+
+
+badge_collector.png — собрал 5 скинов
+
+badge_mythic.png — получил мифик-скин
+
+badge_high_roller.png — ставка 1000+
+
+badge_lucky.png — 3 выигрыша подряд
+
+icon_slots.png — Слоты
+
+icon_roulette.png — Рулетка
+
+icon_blackjack.png — Блэкджек
+
+icon_dice.png — Кости
+
+icon_coin.png — Орёл/Решка
+
+icon_crash.png — Краш
+
+icon_mines.png — Мины
+
+icon_plinko.png — Плинко
+
+icon_wheel.png — Колесо
+
+icon_cases.png — Кейсы
+
+icon_shop.png — Скины
